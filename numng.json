@@ -1,0 +1,4 @@
+{
+  "name": "bencode",
+  "nu_libs": {"bencode": "bencode"}
+}

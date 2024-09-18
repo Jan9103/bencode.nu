@@ -1,0 +1,8 @@
+{
+  name: "bencode"
+  version: "1.0.0"
+  description: "bencode en- and de-coder"
+  maintainers: ["@jan9103"]
+  license: "https://github.com/jan9103/bencode.nu/blob/main/LICENSE"
+  type: "module"
+}
